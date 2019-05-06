@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yigeilama.mechtaev.com/sitemap.xml
